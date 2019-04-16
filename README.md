@@ -1,1 +1,3 @@
-# nightb1ade.github.io
+# NightB1ade’s Sites
+
+A list of the GitHub Pages sites that I use for various purposes.
